@@ -1,0 +1,2 @@
+# metronic
+Metronic is the most trusted and popular admin theme in the market which is based on Bootstrap 4 framework that provides a complete frontend to build any type of web applications. Metronic comes with multiple demos for classic jQuery and Angular versions. Metronic package also includes powerful build tools to manage and deploy project assets easily. This documentation provides the information you need to be able to use Metronic in your applications, customising it to match your exact requirements to get your projects done successfully.
